@@ -1,6 +1,6 @@
 # MiniBash
-COMP 8567- Advanced Systems Programming
-Instructors: Dr. Boufama and Dr. Ranga
+COMP 8567- Advanced Systems Programming<br>
+Instructors: Dr. Boufama and Dr. Ranga<br>
 Project Work
 Title: Distributed processing of grep with client server programming. 
 
